@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "lithiumore:lithium_ore_overworld",
+    "lithiumore:lithium_ore_nether",
+    "lithiumore:lithium_ore_end"
+  ]
+}

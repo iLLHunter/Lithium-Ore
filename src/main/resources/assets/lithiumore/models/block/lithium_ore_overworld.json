@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "lithiumore:blocks/lithiumore",
+    "up": "lithiumore:blocks/lithiumore",
+    "north": "lithiumore:blocks/lithiumore",
+    "east": "lithiumore:blocks/lithiumore",
+    "south": "lithiumore:blocks/lithiumore",
+    "west": "lithiumore:blocks/lithiumore",
+    "particle": "lithiumore:blocks/lithiumore"
+  }
+}

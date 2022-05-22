@@ -1,0 +1,59 @@
+{
+  "mod_elements": [
+    {
+      "name": "LithiumOreOverworld",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lithium_ore_overworld"
+    },
+    {
+      "name": "LithiumOreNether",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lithium_ore_nether"
+    },
+    {
+      "name": "LithiumOreEnd",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lithium_ore_end"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.lithiumore.lithium_ore_overworld": "Lithium Ore Overworld",
+      "block.lithiumore.lithium_ore_end": "Lithium Ore End",
+      "block.lithiumore.lithium_ore_nether": "Lithium Ore Nether"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "lithiumore",
+    "modName": "LithiumOre",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.illhunter.lithiumore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

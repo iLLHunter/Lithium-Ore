@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "lithiumore:block/lithium_ore_nether"
+    }
+  }
+}
