@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "distribution": "uniform",
+  "generators": [
+    {
+      "block": "lithiumore:lithium_ore",
+      "material": "minecraft:stone",
+      "cluster-size": 3,
+      "cluster-count": 3,
+      "min-height": 0,
+      "max-height": 59
+    },
+    {
+      "block": "lithiumore:deepslate_lithium_ore",
+      "material": "minecraft:deepslate",
+      "cluster-size": 4,
+      "cluster-count": 4,
+      "min-height": -63,
+      "max-height": 0
+    }
+  ],
+  "biome": "all",
+  "dimension": {
+    "restriction": "whitelist",
+    "value": ["minecraft:overworld"]
+  }
+}

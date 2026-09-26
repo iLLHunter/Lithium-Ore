@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lithiumore:lithium_ore",
+    "lithiumore:deepslate_lithium_ore",
+    "lithiumore:nether_lithium_ore",
+    "lithiumore:end_lithium_ore"
+  ]
+}

@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="lithiumore"
+version="${mod_version}"
+displayName="Lithium Ore"
+authors="Lithium Ore project"
+description='''Three configurable lithium ores with Mekanism Crusher processing. Generates only in newly created chunks.'''
+
+[[dependencies.lithiumore]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.194,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.lithiumore]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.lithiumore]]
+modId="mekanism"
+type="optional"
+versionRange="[10.7,)"
+ordering="AFTER"
+side="BOTH"

@@ -1,5 +1,6 @@
 {
-  "block.lithiumore.lithium_ore_overworld": "Lithium Ore Overworld",
-  "block.lithiumore.lithium_ore_end": "Lithium Ore End",
-  "block.lithiumore.lithium_ore_nether": "Lithium Ore Nether"
+  "block.lithiumore.lithium_ore": "Lithium Ore",
+  "block.lithiumore.deepslate_lithium_ore": "Deepslate Lithium Ore",
+  "block.lithiumore.nether_lithium_ore": "Nether Lithium Ore",
+  "block.lithiumore.end_lithium_ore": "End Lithium Ore"
 }

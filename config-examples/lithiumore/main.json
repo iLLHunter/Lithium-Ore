@@ -1,0 +1,11 @@
+{
+  "use_mekanism": true,
+  "mekanism": {
+    "crusher_outputs": {
+      "lithium_ore": 2,
+      "deepslate_lithium_ore": 3,
+      "nether_lithium_ore": 4,
+      "end_lithium_ore": 8
+    }
+  }
+}
