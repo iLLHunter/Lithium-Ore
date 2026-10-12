@@ -111,4 +111,4 @@ Always test world generation changes in disposable worlds and newly generated ch
 
 ## License
 
-MIT. See `LICENSE`.
+GNU Lesser General Public License v3.0 only (`LGPL-3.0-only`). See `LICENSE`.
