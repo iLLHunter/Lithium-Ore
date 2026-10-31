@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "लिथियम अयस्क",
+  "block.lithiumore.deepslate_lithium_ore": "डीपस्लेट लिथियम अयस्क",
+  "block.lithiumore.nether_lithium_ore": "नेदर का लिथियम अयस्क",
+  "block.lithiumore.end_lithium_ore": "एन्ड का लिथियम अयस्क",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: क्रशर की कॉन्फ़िगर की गई विधियाँ",
+  "pack.lithiumore.generated_recipes.description": "Lithium Ore द्वारा बनाई गई Mekanism क्रशर की विधियाँ"
+}

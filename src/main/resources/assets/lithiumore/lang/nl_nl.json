@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Lithiumerts",
+  "block.lithiumore.deepslate_lithium_ore": "Wrevelsteenlithiumerts",
+  "block.lithiumore.nether_lithium_ore": "Netherlithiumerts",
+  "block.lithiumore.end_lithium_ore": "Endlithiumerts",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: ingestelde vergruizerrecepten",
+  "pack.lithiumore.generated_recipes.description": "Mekanism-vergruizerrecepten gegenereerd door Lithium Ore"
+}

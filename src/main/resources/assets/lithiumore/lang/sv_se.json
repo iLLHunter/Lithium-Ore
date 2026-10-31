@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Litiummalm",
+  "block.lithiumore.deepslate_lithium_ore": "Djupskifferinbäddad litiummalm",
+  "block.lithiumore.nether_lithium_ore": "Netherlitiummalm",
+  "block.lithiumore.end_lithium_ore": "Endlitiummalm",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: konfigurerade krossarrecept",
+  "pack.lithiumore.generated_recipes.description": "Mekanism-krossarrecept genererade av Lithium Ore"
+}

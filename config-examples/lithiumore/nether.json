@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "distribution": "uniform",
+  "generators": [
+    {
+      "block": "lithiumore:nether_lithium_ore",
+      "material": "minecraft:netherrack",
+      "cluster-size": 4,
+      "cluster-count": 2,
+      "min-height": 5,
+      "max-height": 20
+    }
+  ],
+  "biome": "all",
+  "dimension": {
+    "restriction": "whitelist",
+    "value": ["minecraft:the_nether"]
+  }
+}

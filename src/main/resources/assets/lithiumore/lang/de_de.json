@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Lithiumerz",
+  "block.lithiumore.deepslate_lithium_ore": "Tiefenschiefer-Lithiumerz",
+  "block.lithiumore.nether_lithium_ore": "Netherlithiumerz",
+  "block.lithiumore.end_lithium_ore": "Endlithiumerz",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: konfigurierte Zerkleinererrezepte",
+  "pack.lithiumore.generated_recipes.description": "Von Lithium Ore erzeugte Rezepte für den Mekanism-Zerkleinerer"
+}

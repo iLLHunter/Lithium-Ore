@@ -1,0 +1,40 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.147'
+}
+
+group = 'com.lithiumore'
+version = mod_version
+base { archivesName = 'lithiumore' }
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = project.neo_version
+    parchment {
+        minecraftVersion = '1.21.1'
+        mappingsVersion = '2024.11.17'
+    }
+    runs {
+        client { client() }
+        server { server() }
+    }
+    mods {
+        lithiumore {
+            sourceSet sourceSets.main
+        }
+    }
+}
+
+def metadata = tasks.register('generateModMetadata', ProcessResources) {
+    def replacements = [mod_version: mod_version, neo_version: neo_version]
+    inputs.properties(replacements)
+    expand replacements
+    from 'src/main/templates'
+    into layout.buildDirectory.dir('generated/sources/modMetadata')
+}
+sourceSets.main.resources.srcDir(metadata)
+neoForge.ideSyncTask(metadata)
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}

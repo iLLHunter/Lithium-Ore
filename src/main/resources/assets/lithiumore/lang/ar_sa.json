@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "خام الليثيوم",
+  "block.lithiumore.deepslate_lithium_ore": "خام الليثيوم العميق",
+  "block.lithiumore.nether_lithium_ore": "خام الليثيوم في النذر",
+  "block.lithiumore.end_lithium_ore": "خام الليثيوم في الاند",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: وصفات الكسارة المهيأة",
+  "pack.lithiumore.generated_recipes.description": "وصفات كسارة Mekanism التي أنشأها Lithium Ore"
+}

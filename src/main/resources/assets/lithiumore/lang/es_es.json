@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Mena de litio",
+  "block.lithiumore.deepslate_lithium_ore": "Mena de litio de pizarra profunda",
+  "block.lithiumore.nether_lithium_ore": "Mena de litio del Nether",
+  "block.lithiumore.end_lithium_ore": "Mena de litio del End",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: recetas configuradas del Triturador",
+  "pack.lithiumore.generated_recipes.description": "Recetas del Triturador de Mekanism generadas por Lithium Ore"
+}

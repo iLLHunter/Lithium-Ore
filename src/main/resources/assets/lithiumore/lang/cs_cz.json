@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Lithiová ruda",
+  "block.lithiumore.deepslate_lithium_ore": "Hlubinná lithiová ruda",
+  "block.lithiumore.nether_lithium_ore": "Netherová lithiová ruda",
+  "block.lithiumore.end_lithium_ore": "Endová lithiová ruda",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: nastavené recepty drtiče",
+  "pack.lithiumore.generated_recipes.description": "Recepty drtiče Mekanism vygenerované modem Lithium Ore"
+}

@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Lítiumérc",
+  "block.lithiumore.deepslate_lithium_ore": "Lítiumérc mélypalában",
+  "block.lithiumore.nether_lithium_ore": "Netherlítiumérc",
+  "block.lithiumore.end_lithium_ore": "Endlítiumérc",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: beállított darálóreceptek",
+  "pack.lithiumore.generated_recipes.description": "A Lithium Ore által létrehozott Mekanism-darálóreceptek"
+}

@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Lityum Cevheri",
+  "block.lithiumore.deepslate_lithium_ore": "Kayrak Taşında Lityum Cevheri",
+  "block.lithiumore.nether_lithium_ore": "Nether Lityum Cevheri",
+  "block.lithiumore.end_lithium_ore": "End Lityum Cevheri",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: yapılandırılmış Ezici tarifleri",
+  "pack.lithiumore.generated_recipes.description": "Lithium Ore tarafından oluşturulan Mekanism Ezici tarifleri"
+}

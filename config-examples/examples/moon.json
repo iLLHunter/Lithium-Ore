@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "distribution": "triangle",
+  "generators": [
+    {
+      "block": "lithiumore:lithium_ore",
+      "material": "minecraft:stone",
+      "cluster-size": 8,
+      "cluster-count": 2,
+      "min-height": -32,
+      "max-height": 96
+    }
+  ],
+  "biome": "all",
+  "dimension": {
+    "restriction": "whitelist",
+    "value": ["examplemod:moon"]
+  }
+}

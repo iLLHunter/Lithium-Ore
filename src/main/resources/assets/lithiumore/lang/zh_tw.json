@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "鋰礦",
+  "block.lithiumore.deepslate_lithium_ore": "深板岩鋰礦",
+  "block.lithiumore.nether_lithium_ore": "地獄鋰礦",
+  "block.lithiumore.end_lithium_ore": "終界鋰礦",
+  "pack.lithiumore.generated_recipes": "Lithium Ore：已設定的粉碎機配方",
+  "pack.lithiumore.generated_recipes.description": "由Lithium Ore產生的Mekanism粉碎機配方"
+}

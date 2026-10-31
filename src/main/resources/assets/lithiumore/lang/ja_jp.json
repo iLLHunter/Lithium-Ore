@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "リチウム鉱石",
+  "block.lithiumore.deepslate_lithium_ore": "深層リチウム鉱石",
+  "block.lithiumore.nether_lithium_ore": "ネザーリチウム鉱石",
+  "block.lithiumore.end_lithium_ore": "エンドリチウム鉱石",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: 設定済みの粉砕機レシピ",
+  "pack.lithiumore.generated_recipes.description": "Lithium Oreが生成したMekanismの粉砕機レシピ"
+}

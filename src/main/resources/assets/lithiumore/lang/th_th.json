@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "แร่ลิเทียม",
+  "block.lithiumore.deepslate_lithium_ore": "แร่ลิเทียมในหินชนวนลึก",
+  "block.lithiumore.nether_lithium_ore": "แร่ลิเทียมเนเธอร์",
+  "block.lithiumore.end_lithium_ore": "แร่ลิเทียมเอนด์",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: สูตรเครื่องบดที่กำหนดค่าไว้",
+  "pack.lithiumore.generated_recipes.description": "สูตรเครื่องบด Mekanism ที่สร้างโดย Lithium Ore"
+}

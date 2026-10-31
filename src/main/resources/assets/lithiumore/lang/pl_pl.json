@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Złoże litu",
+  "block.lithiumore.deepslate_lithium_ore": "Łupkowe złoże litu",
+  "block.lithiumore.nether_lithium_ore": "Netherowe złoże litu",
+  "block.lithiumore.end_lithium_ore": "Endowe złoże litu",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: skonfigurowane receptury kruszarki",
+  "pack.lithiumore.generated_recipes.description": "Receptury kruszarki Mekanism wygenerowane przez Lithium Ore"
+}

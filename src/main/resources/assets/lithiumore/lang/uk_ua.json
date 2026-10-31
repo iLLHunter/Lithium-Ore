@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Літієва руда",
+  "block.lithiumore.deepslate_lithium_ore": "Глибосланцева літієва руда",
+  "block.lithiumore.nether_lithium_ore": "Незерська літієва руда",
+  "block.lithiumore.end_lithium_ore": "Літієва руда Енду",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: налаштовані рецепти дробарки",
+  "pack.lithiumore.generated_recipes.description": "Рецепти дробарки Mekanism, згенеровані Lithium Ore"
+}

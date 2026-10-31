@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Minerale di litio",
+  "block.lithiumore.deepslate_lithium_ore": "Minerale di litio in ardesia profonda",
+  "block.lithiumore.nether_lithium_ore": "Minerale di litio del Nether",
+  "block.lithiumore.end_lithium_ore": "Minerale di litio dell'End",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: ricette configurate del Polverizzatore",
+  "pack.lithiumore.generated_recipes.description": "Ricette del Polverizzatore di Mekanism generate da Lithium Ore"
+}

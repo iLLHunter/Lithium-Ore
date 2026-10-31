@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "리튬 광석",
+  "block.lithiumore.deepslate_lithium_ore": "심층암 리튬 광석",
+  "block.lithiumore.nether_lithium_ore": "네더 리튬 광석",
+  "block.lithiumore.end_lithium_ore": "엔드 리튬 광석",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: 설정된 분쇄기 조합법",
+  "pack.lithiumore.generated_recipes.description": "Lithium Ore에서 생성한 Mekanism 분쇄기 조합법"
+}

@@ -1,0 +1,8 @@
+{
+  "block.lithiumore.lithium_ore": "Minério de Lítio",
+  "block.lithiumore.deepslate_lithium_ore": "Minério de Lítio de Ardosiabissal",
+  "block.lithiumore.nether_lithium_ore": "Minério de Lítio do Nether",
+  "block.lithiumore.end_lithium_ore": "Minério de Lítio do End",
+  "pack.lithiumore.generated_recipes": "Lithium Ore: receitas configuradas do Triturador",
+  "pack.lithiumore.generated_recipes.description": "Receitas do Triturador do Mekanism geradas pelo Lithium Ore"
+}
