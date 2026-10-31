@@ -1,4 +1,4 @@
-# Lithium Ore for NeoForge 1.21.1
+# Lithium Ore 1.0.0 for Neoforge
 
 Lithium Ore adds configurable lithium ore generation for the Overworld, Nether, End, and custom dimensions, with optional Mekanism Crusher recipes.
 
@@ -15,7 +15,7 @@ Current development version: `1.0.0`
 ## Requirements
 
 - Minecraft `1.21.1`
-- NeoForge `21.1.194` or newer in the `21.1.x` line
+- NeoForge `21.1.243` or newer in the `21.1.x` line
 - Java 21
 - Mekanism `10.7+` when the integration is enabled
 
